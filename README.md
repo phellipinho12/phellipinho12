@@ -1,7 +1,8 @@
-                                                     ###       Ola 👋, Eu sou Phellipe Pereira
+###                                                                           Ola 👋, Eu sou Phellipe Pereira
 
+###                                                                                 Sou Analista de Dados/BI
 
-
+ 
 - 🌱 Atualmente minhas principais habilidades são relacionadas com Business Intelligence, Data Analyst, Data Analytics, Power BI, SQL e Python
 - 📚 Atualmente estou estudando e praticando bastante sobre CI/CD, PySpark, Databricks, Airflow
 - 👨‍💻 Compartilho minha atividades em www.linkedin.com/in/phellipelpereira
