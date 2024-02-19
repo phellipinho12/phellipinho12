@@ -1,4 +1,4 @@
-###                                                                           Ola 👋, Eu sou Phellipe Pereira
+#                                                                         Ola 👋, Eu sou Phellipe Pereira
 
 ###                                                                                 Sou Analista de Dados/BI
 
