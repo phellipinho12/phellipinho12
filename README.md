@@ -9,7 +9,7 @@
 - 💬 Pergunte-me sobre SQL, DataViz, Python, ETL, Power BI
 - 📫 Me ache através do email: phellipe.lpereira@gmail.com
 
-E aí, pessoal! Atuo como analista de Dados há 3 anos e sou especializado em engenharia de banco de dados e estou em busca de mais maneiras de aprimorar minhas habilidades na engenharia de dados.
+E aí, pessoal! Atuo como Analista de Dados há 3 anos e sou especializado em engenharia de banco de dados e estou em busca de mais maneiras de aprimorar minhas habilidades na engenharia de dados.
 
 Além de lidar com códigos, dados e visões, sou a pessoa que trabalha na parte de frente dos dados, criando visualizaçoes estrategicas e analiticas com dados. Assim, tornando a jornada dos dados em um storytelling tão suave quanto entendivel. A grande novidade é que, no momento, estou imerso no estudo da engenharia de dados com apache airflow, databricks, PySpark dentre outros, buscando aprimorar a forma como transformamos dados.
 
